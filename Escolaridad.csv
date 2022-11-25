@@ -1,9 +1,49 @@
-anio,sexo,esp_vida_escolar
-1980,m,11.582647544359894
-1980,v,11.642691454006494
-1991,m,12.323490270508804
-1991,v,12.30543467701406
-2001,m,12.591456799247243
-2001,v,12.527164962098034
-2010,m,12.586378835082412
-2010,v,12.560747597246074
+anio,sexo,tasa_escolarizacion,nivel_enseñanza
+2010,m,98.69168531588913,Primario
+2010,m,90.83431925737169,Secundario / Medio
+2010,m,56.04559215206207,Superior
+2010,v,99.246793532269,Primario
+2010,v,87.40919567853359,Secundario / Medio
+2010,v,47.47069585442289,Superior
+2011,m,97.61376825402323,Primario
+2011,m,93.5625938058042,Secundario / Medio
+2011,m,54.7149521797455,Superior
+2011,v,97.95319715370331,Primario
+2011,v,89.22055204116917,Secundario / Medio
+2011,v,50.721181672956256,Superior
+2012,m,98.23685725325069,Primario
+2012,m,89.68587067044547,Secundario / Medio
+2012,m,58.801199603190526,Superior
+2012,v,97.97091778143331,Primario
+2012,v,87.9207671221367,Secundario / Medio
+2012,v,47.95064960871522,Superior
+2013,m,99.0,Primario
+2013,m,91.4,Secundario / Medio
+2013,m,57.5,Superior
+2013,v,99.1,Primario
+2013,v,88.2,Secundario / Medio
+2013,v,44.8,Superior
+2014,m,97.1,Primario
+2014,m,87.8,Secundario / Medio
+2014,m,53.1,Superior
+2014,v,97.5,Primario
+2014,v,89.0,Secundario / Medio
+2014,v,46.2,Superior
+2015,m,98.8,Primario
+2015,m,90.8,Secundario / Medio
+2015,m,56.7,Superior
+2015,v,98.5,Primario
+2015,v,87.8,Secundario / Medio
+2015,v,48.5,Superior
+2016,m,98.53331130152884,Primario
+2016,m,90.67581539618385,Secundario / Medio
+2016,m,53.84275647062644,Superior
+2016,v,97.26604090781731,Primario
+2016,v,85.96493293925086,Secundario / Medio
+2016,v,48.36880560137253,Superior
+2017,m,98.7,Primario
+2017,m,93.1,Secundario / Medio
+2017,m,52.6,Superior
+2017,v,97.7,Primario
+2017,v,89.8,Secundario / Medio
+2017,v,49.9,Superior
